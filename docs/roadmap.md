@@ -1,0 +1,2 @@
+panel de usuario
+Una interfaz donde cada usuario define sus franjas horarias (ej. checkboxes de días + selectores de hora). Guarda los cambios en la base de datos en la nube y, en paralelo, en localStorage como caché para que cargue instantáneo la próxima vez.
